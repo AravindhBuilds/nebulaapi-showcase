@@ -83,7 +83,7 @@ As the sole developer of NebulaAPI, I was responsible for:
 
 ## Screenshots
 
-(Add screenshots here)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 - Dashboard
 - Analytics
