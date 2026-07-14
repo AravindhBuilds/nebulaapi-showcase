@@ -85,12 +85,13 @@ As the sole developer of NebulaAPI, I was responsible for:
 
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
-- Dashboard
-- Analytics
-- CMS
-- Payments
-- Chat Module
-- Developer Console
+![Developer Docs](screenshots/nebulaapi_docs.png)
+
+![Playground](screenshots/nebulaapi_playground.png)
+
+![Analytics Dashboard](screenshots/nebulaapi_analytics_dashboard.png)
+
+![Analytics Overview](screenshots/nebulaapi_analytics.png)
 
 ---
 
